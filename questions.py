@@ -1,0 +1,22 @@
+fragenDic = {
+	0:"Ist die Zahl eine Primzahl?",
+	1:"Enthaelt ihre Zahl eine Ziffer mit geschlossener Flaeche?",
+	2:"Ist ihre Zahl eine Quadratzahl?",
+	3:"Sind die Ziffern ihrer Zahl ein Palindrom?",
+	4:"Ist ihre Zahl durch ZZ teilbar?",
+	5:"Wieviele X kommen in ihrer Zahl vor?",
+	6:"Ist ihre Zahl gerade?",
+	7:"Ist ihre Zahl eine Kubikzahl?",
+	8:"Ist heute Donnerstag?",
+	9:"Sind Sie Single?",
+	10:"Liegt ihre Zahl zwischen XX und YY?",
+	11:"Wieviele Stellen hat ihre Zahl?",
+	12:"Reimt sich ihre Zahl auf Ei?",
+	13:"Was ist die Quersumme ihrer Zahl?",
+	14:"Wie ist die einstellige (iterierte) Quersumme ihrer Zahl?",
+	15:"Ist ihre Zahl die GG?",
+	16:"Ist der Nachfolger ihrer Zahl um eins groesser als die Zahl selber?",
+	17:"Ist ihre Zahl Teil der Fibonacci Folge?",
+	18:"Ist ihre Zahl eine 2er-Potenz?",
+	19:"Ist ihre Zahl verdoppelt noch kleiner als XX?"
+}
